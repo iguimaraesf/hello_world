@@ -1,2 +1,3 @@
-# hello_world
-Testando o github
+# hello_world!
+
+Neste arquivo, está um resumo do projeto.
